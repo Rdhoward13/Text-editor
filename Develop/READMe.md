@@ -8,4 +8,5 @@
 
 ## Deployment Link
 
-###
+github:https://github.com/Rdhoward13/Text-editor
+heroku:https://jate-text-editor-123.herokuapp.com/
